@@ -24,7 +24,7 @@ I enjoy turning complex data into meaningful insights and building practical sol
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 Explore all projects in the **[Real-World Data Analytics Repository](https://github.com/Rcloud173/real-world-data-analytics)**.
 
